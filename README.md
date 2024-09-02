@@ -1,6 +1,6 @@
 # 13k games research.
 
-It's been a long-time dream of mine to develop a game that fits under the 13k size limit. Currently, I have 67 partially completed JavaScript games. I want to emphasize that my intention is not to make a profit from these games, as the market is already saturated. My goal is to create cool, free, or affordable games that respect user privacy. Most of my games are missing graphics, audio, and levels. Some require code updates. However, the majority of them are over 90% complete on a code level.
+It's been a long-time dream of mine to develop a game that fits under the [13k size limit.](https://js13kgames.com/) Currently, I have 67 partially completed JavaScript games. I want to emphasize that my intention is not to make a profit from these games, as the market is already saturated. My goal is to create cool, free, or affordable games that respect user privacy. Most of my games are missing graphics, audio, and levels. Some require code updates. However, the majority of them are over 90% complete on a code level.
 
 At the moment I only have 12 days to finish a game and publish. 
 
